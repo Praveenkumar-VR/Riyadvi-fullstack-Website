@@ -148,8 +148,7 @@ https://riyadvi-fullstack-website.onrender.com
 
 ## GitHub Repository
 
-https://github.com/PraveenKumar2919/Riyadvi-fullstack-Website
-
+https://github.com/Praveenkumar-VR/Riyadvi-fullstack-Website
 ---
 
 ## Author
